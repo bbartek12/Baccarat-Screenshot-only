@@ -1,7 +1,7 @@
 # Baccarat-Screenshots-only
 
 ## Note:
-This is a school project so only pictures are inlcuded
+This is a school project so no source code included, only screenshots of the game, to prevent current and future students from using my work. 
 
 ## Summary:
 This is casino card game made using JavaFX 
